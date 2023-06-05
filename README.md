@@ -1,7 +1,7 @@
 # Challenge ONE | Lógica de Programação | Decodificador de texto
 
 <p align="center" >
-     <img width="1024" heigth="768" src="https://github.com/Gultes-From-23/decodificador-texto/assets/131166618/1183213b-ef30-4b45-8bca-ca43decdfc95")
+     <img width="1024" heigth="768" src="https://github.com/Gultes-From-23/decodificador-texto/assets/131166618/8f7a5d33-1890-44b1-bdeb-21d6772e02a2")
 ">
 </p>
 
