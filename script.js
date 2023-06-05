@@ -74,3 +74,18 @@ function desencriptar(stringDesencriptada) {
 
     return stringDesencriptada;
 }
+
+function btnCopiar() {
+    var textarea = document.querySelector('.mensagem');
+    textarea.select();
+    document.execCommand('copy');
+
+    var btnCopiar = document.querySelector('.btn-copiar');
+    btnCopiar.textContent = 'Copiado';
+
+    setTimeout(function () {
+        btnCopiar.textContent = 'Copiar';
+    }, 2000);
+}
+
+
